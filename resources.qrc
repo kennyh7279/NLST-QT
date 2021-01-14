@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/distributor-icons">
+        <file>resources/manjaro-logo.png</file>
+        <file>resources/ubuntu-logo.png</file>
+        <file>resources/fedora-logo.png</file>
+        <file>resources/icon-for-linux-7.png</file>
+        <file>resources/elementary-logo.png</file>
+    </qresource>
+</RCC>
